@@ -1,5 +1,5 @@
 #                                                                                              Hi, I'm *Muhammad Altaf Samin*
-##                                                                                Data Analytics | AI/ML Engineer | SQL | Python | Power BI
+##                                                                                Odoo Technical Developer | Python | PostgreSQL | XML | JavaScript | HTML | CSS
 
 
 # 💫 About Me:
